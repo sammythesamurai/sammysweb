@@ -105,14 +105,32 @@ a:hover {
 }
 
 
-body {background-color: orange;color: navy blue;padding: 40px;}
+body {
+  background-color: orange;
+  color: navy blue;
+  padding: 40px;
+}
 
-h1 {font-weight: bold; font-family: cursive; color: black; font-size: 24px;} 
+h1 {font-weight: bold;
+  font-family: cursive;
+  color: black;
+  font-size: 24px;
+} 
 
-h2 {font-family: courier, sans-serif; font-weight: bold; font-size: 20px;} 
+h2 {font-family: courier, sans-serif;
+ font-weight: bold; 
+ font-size: 20px;
+} 
 
-li {font-size: 16px;}
+li {
+  font-size: 16px;
+}
 
-nav {font-family: sans-serif; font-size: 26px; color: rgb(200, 50, 200);}
+nav {
+  font-family: sans-serif;
+  font-size: 26px; 
+  color: rgb(200, 50, 200);
+}
 
-a {font-family: sans-serif; color: white;}
+a {font-family: sans-serif; 
+  color: white;}
